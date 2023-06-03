@@ -31,3 +31,7 @@ Foram adicionadas as seguintes funcionalidades:
 
 - [Clique aqui para verificar](https://andreiaoliveira7.github.io/todo_react_vite_deploy/)
 
+
+<img src="https://github.com/AndreiaOliveira7/todo_react_vite_deploy/blob/main/src/img/screenshot.png" />
+
+
